@@ -9,3 +9,4 @@ pip install -r requirements.txt
 python main.py
 
 
+app url - https://nsfw-classifier-api.herokuapp.com/
